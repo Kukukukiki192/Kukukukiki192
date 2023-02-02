@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm KK <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <!--
 **Kukukukiki192/Kukukukiki192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,31 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br />
-  <samp>
-    😆 Hey! Welcome to my profile
-    <br />
-    <br />🍉 Take a look at my stats  🌱
-    <br />
-    <br />
-  </samp>
+### 🏫  Software Engineering
+### 🌱  Big data
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wangyang0210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="wangyang0210's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyang0210&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
+### 💙  Soduku 🏀
+<!--
+### 🔨
+<div align="center">
+    <a href="https://www.google.com/chrome" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
+    </a>
+   ...
+</div>
 
-</p>
+### 📈-->
+<div align="center">
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=Kukukukiki192&theme=tokyonight&count_private=true&show_icons=true&hide_border=true" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kukukukiki192&theme=tokyonight&count_private=true&layout=compact&langs_count=8&hide_border=true" />
+    <span>&emsp;&emsp;</span>
+</div>
 
-<br />
-
-<p align="right">
-<a><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
-<a><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a>
-<a><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
-<a><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
-<a><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a> 
-<a><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></a> 
-<a><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></a> 
-<a><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a> 
-</p>
+<!--
+<div align="center">
+  <a href="https://github.com/Kukukukiki192/Py">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kukukukiki192&repo=Py&theme=material-palenight&hide_border=true" />
+  </a>
+</div>
+-->
